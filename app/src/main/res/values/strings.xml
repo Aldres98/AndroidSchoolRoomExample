@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSchoolRoomExample</string>
+    <string name="add_note_title">Title</string>
+    <string name="enter_your_note">Enter your note</string>
+    <string name="add_note_button_text">Add note</string>
+    <string name="update_button">UPDATE</string>
+</resources>
